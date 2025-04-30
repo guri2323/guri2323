@@ -13,7 +13,7 @@
 	🎯 Sharpening my skills in public speaking & storytelling
 ```
 
-### 🧠 Tech Stack
+## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
@@ -43,7 +43,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 
 
-<h3> 📫 How to reach me </h3>  
+## 📫 How to reach me
 <ul>
 	<span>🔗</span><a href="https://www.linkedin.com/in/gurleen-singh-23044a2a6/" target="_blank"> LinkedIn</a><br>
 	📧 gurleen_web@outlook.com<br>
