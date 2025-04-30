@@ -25,4 +25,15 @@ const Gurleen = {
 	•	⚙️ Automating deployments using Docker + GitLab CI
 	•	📈 Enhancing performance and SEO for client applications
 	•	🎯 Sharpening my skills in public speaking & storytelling
+
+📫 How to reach me
+	•	🔗 [LinkedIn](https://www.linkedin.com/in/gurleen-singh-23044a2a6/)
+	•	📧 gurleen.web@outlook.com
+	•	☎️ +1 365-364-0595
+
+🎯 Quote I Live By
+
+“Discipline is the bridge between goals and accomplishment.” – Jim Rohn
+
+<p align="center">Thank you for visiting! ⭐️ Feel free to check out my repositories and connect.</p>
 ```
